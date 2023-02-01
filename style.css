@@ -1,3 +1,7 @@
+*{
+    font-size: 15px;
+}
+
 .container{
     background-color: rgb(236, 232, 232);
     display: flex;
@@ -11,8 +15,8 @@
     background-color: white;
     padding: 10px 10px;
     border: 2px solid black;
-    width: 40vw;
-    height: 40vh;
+    width: 60%;
+    height: 50%;
 }
 
 .content div{
@@ -42,8 +46,8 @@
     background-color: black;
     padding: 10px 10px;
     border: 2px solid black;
-    width: 40vw;
-    height: 45vh;
+    width: 60%;
+    height: 50%;
 }
 
 .lower-heading{
@@ -71,7 +75,7 @@ input{
 
 .content span{
     position: absolute;
-    left: 580px;
+    left: 390px;
 }
 
 .lat-lon span{
@@ -88,6 +92,6 @@ input{
 }
 
 #correct{
-    margin-left: -40px;
+    margin-left: -4 0px;
 }
 
